@@ -2,7 +2,7 @@
 # Grupo: 213022_46
 # Programa: Ingenieria Electronica
 # Codigo Fuente: Autoria Propia
-# Nombre de programa: Fase 5 - matriz que registra las horas trabajadas por un equipo durante la semana
+# Nombre de programa: Fase 5 - Problema 5 - matriz que registra las horas trabajadas por un equipo durante la semana
 ''' Descripcion: Una matriz registra las horas trabajadas por un equipo
 durante la semana: [Nombre del Recurso, Lunes, Martes, ..., Viernes].
 Necesitas calcular el total de horas semanales por persona y señalar si
